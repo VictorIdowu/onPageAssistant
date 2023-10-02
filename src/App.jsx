@@ -126,7 +126,7 @@ function App() {
         className={`flex flex-col opacity-0 sm:text-start  rounded-[50%] absolute left-5 bottom-5 transition-all ease-in duration-1000`}
       >
         <Icon
-          className="text-6xl sm:text-8xl"
+          className="text-6xl sm:text-8xl animate-bounce"
           icon="fluent-emoji-flat:girl-medium"
         />
         <p className="bg-green-900 text-gray-100 font-semibold px-6 py-3 rounded-3xl type">
