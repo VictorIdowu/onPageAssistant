@@ -58,7 +58,9 @@ function App() {
   const moveToNav = async (e) => {
     const el = await e.target;
     await getPosition(el);
-    setMsg(`Link on this text to navigate to the ${e.target.textContent} page`);
+    setMsg(
+      `Click on this text to navigate to the ${e.target.textContent} page`
+    );
   };
 
   // Move animation back
