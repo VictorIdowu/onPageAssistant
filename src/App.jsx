@@ -86,7 +86,7 @@ function App() {
         ))}
       </nav>
       <img
-        className="abolute top-0 w-full h-[80vh] brightness-[0.3]"
+        className="abolute top-0 w-full h-[80vh] brightness-[0.2]"
         src="https://aofund.org/app/uploads/2022/09/business-grants-for-black-women-scaled.jpg"
         alt=""
       />
